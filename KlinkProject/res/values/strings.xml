@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Klink</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- action bar items -->
+    <string name="action_search">Search</string>
+    <string name="action_inventory">Inventory</string>
+    <string name="action_cart">Cart</string>
+
+    <!-- activity titles -->
+    <string name="title_activity_main">Drink Drivers</string>
+
+    <!-- miscelaneous -->
+    <string name="start_button_text">Start Order</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="send">Send</string>
+    <string name="wine">Wine</string>
+    <string name="beer">Beer</string>
+    <string name="liquor">Liquor</string>
+    <string name="server_message"></string>
+    <string name="tagline">Alcohol Delivery</string>
+    <string name="title_activity_inventory_list">Inventory List Activity</string>
+    <string name="terms_agreement">I am 21 or older and agree to the Terms of Use.</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">  Email</string>
+    <string name="firstName">  First Name</string>
+    <string name="lastName">  Last Name</string>
+    <string name="password">  Password</string>
+    <string name="confirm">  Confirm</string>
+    <string name="total">"Total: "</string>
+    <string name="checkout">Checkout</string>
+    <string name="sub_total">"Subtotal: "</string>
+    <string name="service_fee">"Service Fee: "</string>
+    <string name="how_it_works">How it works</string>
+    <string name="account">Account</string>
+    <string name="where_are_you">Where are you?</string>
+    <string name="tip">Tip</string>
+    <string name="order_total">Order total:</string>
+
+    <string-array name="location_array">
+        <item>Orlando</item>
+    </string-array>
+
+    <string name="title_activity_account_info">AccountInfoActivity</string>
+    <string name="account_information">Account Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="birthday">Birthday (MMDDYY)</string>
+    <string name="license_number">License Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_age">By creating an order you confirm you are 21 or older and accept the Terms of Use.</string>
+    <string name="next">Next</string>
+    <string name="secure_server">Information is stored on a secure server.</string>
+    <string name="title_activity_address">AddressActivity</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="address_line1">Address Line 1</string>
+    <string name="address_line2">Address Line 2 (Optional)</string>
+    <string name="city">City</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="special_instructions">Special Instructions</string>
+    <string name="gate_code">i.e. gate code, etc</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="payment_information">Payment Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiration_month">Expiration Month</string>
+    <string name="expiration_year">Expiration Year</string>
+    <string name="security_code">Security Code</string>
+    <string name="title_activity_order_confirmation">OrderConfirmationActivity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="drink_drivers_logo">Drink Drivers Logo</string>
+    <string name="deliver_to">Deliver To</string>
+    <string name="title_activity_finished_order">FinishedOrderActivity</string>
+    <string name="thats_it">That\'s it!</string>
+    <string name="while_you_wait">While you wait</string>
+    <string name="connect_and_share">Connect and share. We love to give our friends free stuff.</string>
+    <string name="comments">Have any comments, questions, really cool stories? Let us know.</string>
+    <string name="phone_number_link">(877) 236 - 4041</string>
+    <string name="email_button">Hello@DrinkDrivers.com</string>
+
+</resources>

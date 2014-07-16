@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  -->
+    <color name="alert">#e0e0e0</color>
+    <color name="confirm">#e0e0e0</color>
+    <color name="info">#e0e0e0</color>
+    <!--  -->
+
+
+    <!-- TextColor for custom toast -->
+    <color name="alert_text_color">#FF0000</color>
+    <color name="confirm_text_color">#0000FF</color>
+    <color name="info_text_color">#000000</color>
+    <color name="ciment">#929292</color>
+    <color name="background_topbar">#e0e0e0</color>
+    <color name="sky">#0088ff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#834B20</color>
+    <color name="green">#008000</color>
+    <color name="topbar">#333333</color>
+    <color name="row_sea_green">#61DD6D</color>
+    <color name="row_red">#FF0000</color>
+    <color name="row_yellow">#FFE87C</color>
+    <color name="blue">#243760</color>
+    <color name="blue_bg">#0B243B</color>
+    <color name="grey">#464444</color>
+    <color name="light_grey">#D4D4D4</color>
+    <color name="grey_light">#5D5B5B</color>
+    <color name="bgcolor">#BDBDBD</color>
+    <!-- #E4ECF5   EFF5F7 #DDDDDD F0FBFE -->
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="slide_bg_color">#363636</color>
+    <color name="text_blue">#004080</color>
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+
+    <!-- Action bar colors -->
+    <color name="actionbar_separator">#3b5998</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#0A4F84</color>
+    <color name="actionbar_background_end">#1BADF0</color>
+    <color name="actionbar_background_item_pressed_start">#1C579F</color>
+    <color name="actionbar_background_item_pressed_end">#214167</color>
+
+    <!-- Add activity -->
+    <color name="activty_color_start">#040000</color>
+    <color name="activty_color_end">#150E0E</color>
+    <color name="activty_color_pressed_start">#3D3D3D</color>
+    <color name="activty_color_pressed_end">#292626</color>
+
+    <!-- custom color for pressed state -->
+    <color name="txt_click">#CECDCD</color>
+    <color name="txt_normal">#FFFFFF</color>
+
+    <!-- transperent color for normal state -->
+    <color name="color_preloader_start">#100000</color>
+    <color name="color_preloader_center">#100000</color>
+    <color name="color_preloader_end">#A9E2F3</color>
+
+</resources>
